@@ -1,0 +1,1 @@
+-tickrate 128 -console -refresh 240 -novid
